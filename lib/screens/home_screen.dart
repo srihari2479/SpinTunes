@@ -117,7 +117,7 @@ class _HomeScreenState extends State<HomeScreen>
                             physics: const BouncingScrollPhysics(),
                             itemCount: musicProvider.recentlyPlayed.length,
                             itemBuilder: (context, index) {
-                              final track = musicProvider.recentlyPlayed[index] as Track;
+                              final track = musicProvider.recentlyPlayed[index];
                               return _buildRecentlyPlayedCard(context, track, index);
                             },
                           ),
@@ -144,7 +144,7 @@ class _HomeScreenState extends State<HomeScreen>
                             physics: const BouncingScrollPhysics(),
                             itemCount: musicProvider.playlists.length,
                             itemBuilder: (context, index) {
-                              final playlist = musicProvider.playlists[index] as Playlist;
+                              final playlist = musicProvider.playlists[index];
                               return _buildPlaylistCard(context, playlist, index);
                             },
                           ),
@@ -171,7 +171,7 @@ class _HomeScreenState extends State<HomeScreen>
                             physics: const BouncingScrollPhysics(),
                             itemCount: musicProvider.artists.length,
                             itemBuilder: (context, index) {
-                              final artist = musicProvider.artists[index] as Artist;
+                              final artist = musicProvider.artists[index];
                               return _buildArtistCard(context, artist, index);
                             },
                           ),

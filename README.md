@@ -179,8 +179,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/spintunes.git
-   cd spintunes
+   git clone https://github.com/srihari2479/SpinTunes.git
+   cd SpinTunes
    ```
 
 2. **Install dependencies**
@@ -267,12 +267,14 @@ LinearGradient(
 
 To add actual audio playback functionality:
 
-```dart
-// Add to pubspec.yaml
+```yaml
+# Add to pubspec.yaml
 dependencies:
   just_audio: ^0.9.36
   audio_service: ^0.18.12
+```
 
+```dart
 // Implement in music_provider.dart
 import 'package:just_audio/just_audio.dart';
 
@@ -319,7 +321,7 @@ class MusicService {
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/<your-username>/spintunes/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/srihari2479/SpinTunes/issues).
 
 ### How to Contribute
 
@@ -367,7 +369,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2024 CH.srihari
+Copyright (c) 2025 CH.srihari
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -391,10 +393,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 **CH.srihari**  
 Flutter Developer | UI/UX Enthusiast | Full-Stack Developer
 
-- 📧 Email: chsrihari@example.com
-- 💼 LinkedIn: [linkedin.com/in/ch-srihari](https://linkedin.com/in/ch-srihari)
-- 🐦 Twitter: [@ch_srihari](https://twitter.com/ch_srihari)
-- 🌐 Portfolio: [srihari.dev](https://srihari.dev)
+- 📧 Email: sriharichoppa12@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/srihari-choppa](https://www.linkedin.com/in/srihari-choppa/)
 
 ---
 
@@ -423,8 +423,8 @@ If you found SpinTunes helpful or learned something from it:
 
 Have questions or need help?
 
-- Open an [issue](https://github.com/<your-username>/spintunes/issues)
-- Start a [discussion](https://github.com/<your-username>/spintunes/discussions)
+- Open an [issue](https://github.com/srihari2479/SpinTunes/issues)
+- Start a [discussion](https://github.com/srihari2479/SpinTunes/discussions)
 - Reach out via email
 
 ---
@@ -433,6 +433,6 @@ Have questions or need help?
 
 **Made with ❤️ and Flutter**
 
-[Report Bug](https://github.com/<your-username>/spintunes/issues) · [Request Feature](https://github.com/<your-username>/spintunes/issues) · [Documentation](https://github.com/<your-username>/spintunes/wiki)
+[Report Bug](https://github.com/srihari2479/SpinTunes/issues) · [Request Feature](https://github.com/srihari2479/SpinTunes/issues) · [Documentation](https://github.com/srihari2479/SpinTunes/wiki)
 
 </div>
