@@ -82,30 +82,30 @@ SpinTunes is a beautifully crafted, fully animated **music player UI** built wit
 ### Home & Search
 | Home Screen | Search Empty | Search Results |
 |-------------|--------------|----------------|
-| ![Home](assets/screens/home.png) | ![Search Empty](assets/screens/search_empty.png) | ![Search All](assets/screens/search_all.png) |
+| <img src="assets/screens/home.png" width="250"/> | <img src="assets/screens/search_empty.png" width="250"/> | <img src="assets/screens/search_all.png" width="250"/> |
 
 | Search Playlists | Search Albums | Search Artists |
 |------------------|---------------|----------------|
-| ![Playlists](assets/screens/search_playlists.png) | ![Albums](assets/screens/search_albums.png) | ![Artists](assets/screens/search_artists.png) |
+| <img src="assets/screens/search_playlists.png" width="250"/> | <img src="assets/screens/search_albums.png" width="250"/> | <img src="assets/screens/search_artists.png" width="250"/> |
 
 ### Library & Settings
 | Library Playlists | Library Favorites | Settings |
 |-------------------|-------------------|----------|
-| ![Playlists](assets/screens/library_playlists.png) | ![Favorites](assets/screens/library_favorites.png) | ![Settings](assets/screens/settings_playback.png) |
+| <img src="assets/screens/library_playlists.png" width="250"/> | <img src="assets/screens/library_favorites.png" width="250"/> | <img src="assets/screens/settings_playback.png" width="250"/> |
 
 ### Now Playing Screens
 | Midnight Dreams | Ocean Breeze | Neon Nights |
 |-----------------|--------------|-------------|
-| ![Midnight](assets/screens/now_playing_midnight_dreams.png) | ![Ocean](assets/screens/now_playing_ocean_breeze.png) | ![Neon](assets/screens/now_playing_neon_nights.png) |
+| <img src="assets/screens/now_playing_midnight_dreams.png" width="250"/> | <img src="assets/screens/now_playing_ocean_breeze.png" width="250"/> | <img src="assets/screens/now_playing_neon_nights.png" width="250"/> |
 
 | Electric Soul | Sunset Vibes | Starlight Drive |
 |---------------|--------------|-----------------|
-| ![Electric](assets/screens/now_playing_electric_soul.png) | ![Sunset](assets/screens/now_playing_sunset_vibes.png) | ![Starlight](assets/screens/now_playing_starlight_drive.png) |
+| <img src="assets/screens/now_playing_electric_soul.png" width="250"/> | <img src="assets/screens/now_playing_sunset_vibes.png" width="250"/> | <img src="assets/screens/now_playing_starlight_drive.png" width="250"/> |
 
 ### Details & Queue
 | Up Next Queue | Playlist Detail | Artist Detail |
 |---------------|-----------------|---------------|
-| ![Queue](assets/screens/up_next_queue.png) | ![Playlist](assets/screens/playlist_detail.png) | ![Artist](assets/screens/artist_detail.png) |
+| <img src="assets/screens/up_next_queue.png" width="250"/> | <img src="assets/screens/playlist_detail.png" width="250"/> | <img src="assets/screens/artist_detail.png" width="250"/> |
 
 ---
 
