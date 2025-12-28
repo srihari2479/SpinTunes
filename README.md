@@ -1,4 +1,4 @@
-# 🎧 SpinTunes – Flutter Music Player UI
+# 🎧 SpinTunes – Flutter Music Player
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&logoColor=white)](https://flutter.dev)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
